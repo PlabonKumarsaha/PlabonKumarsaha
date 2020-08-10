@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 Getting better at : Java,C++,Mobile platform ,Data structure, algorithms andBlockchain;
 - 🌱 I’m currently learning Java Spring,Flutter and Machine Learning(Python), Computer vision;
 - 🤔 I’m looking for help with Java spring boot and Machine learning 😭;
-- 🤔 Little Experience in : Arduino,Data maining, C#;
+- 🤔 Little Experience in : Arduino,Data mining, C#;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possinilty: I wan to learn IOS ;
 - 📫 How to reach me: pkumarsaha71@gmail.com;
