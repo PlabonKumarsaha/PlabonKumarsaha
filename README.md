@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 Little Experience in : Arduino,Data mining, C#;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possibilty: I wan to learn IOS ,Data science and Machine leraning;
-- 📫 How to reach me: pkumarsaha71@gmail.com;
+- 📫 How to reach me: pkumarsaha71@gmail.com
 
 **Languages and Tools:** 
 
