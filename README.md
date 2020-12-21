@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Plabon Kumar saha(you can call me PKS) 👋, a computer science and engineering student  🚀 from Bangladesh.
+## Hi, I'm Plabon Kumar saha(you can call me PKS) 👋, a computer science and engineering student and Java developer Intern at Intellier Ltd 🚀 from Bangladesh.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Getting better at : Java,C++,Mobile platform ,Data structure, algorithms;
-- 🌱 I’m currently learning :Java Spring,Flutter , Computer vision(Python-OpenCV2) and Machine learning;
-- 🤔 I’m looking for help with Java spring boot and Machine learning 😭;
+- 🌱 Getting better at : Java Spring boot,C++,Mobile platform ,Data structure, algorithms, Computer vision(Python-OpenCV2);
+- 🌱 I’m currently learning :Java Spring,Flutter  and Machine learning;
+- 🤔 I’m looking for help with Blockchain and Machine learning 😭;
 - 🤔 Little Experience in : Arduino,Data mining, C#;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possibilty: I wan to learn IOS ,Data science and Machine leraning;
