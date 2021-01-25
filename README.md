@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Plabon Kumar saha(you can call me PKS) 👋, a computer science and engineering student and Java developer Intern at Intellier Ltd 🚀 from Bangladesh.
+## Hi, I'm Plabon Kumar saha(you can call me PKS) 👋,  from Bangladesh.🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
