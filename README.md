@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Getting better at : Java Spring boot,Mobile platform ,Data structure, algorithms, Computer vision(Python-OpenCV2, tensorflow);
-- 🌱 I’m currently learning :Java Spring,React-native,unit testing  and Computer vision,machine learning;
-- 🤔 I’m looking for help with Blockchain and Machine learning 😭;
+- 🌱 Getting better at : Java Spring boot,Mobile platform ,Data structure, algorithms, Computer vision(Python-OpenCV2, tensorflow),Machine learning;
+- 🌱 I’m currently learning :Java Spring,React-native,Pl/SQL, Struts, Computer vision & machine learning;
+- 🤔 I’m looking for help with Oracle PL/SQL & Struts framework;
 - 🤔 Little Experience in : Arduino,Data mining, C#;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possibilty: I wan to learn Data science and get better at Machine leraning;
