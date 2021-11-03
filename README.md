@@ -17,10 +17,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Getting better at : Java Spring boot,Mobile platform ,Data structure, algorithms, Computer vision(Python-OpenCV2, tensorflow),Machine learning;
-- 🌱 I’m currently learning :Java Spring,React-native,Pl/SQL, Struts, Computer vision & machine learning;
+- 🌱 Getting better at : Java Spring boot,Mobile platform ,Data structure, algorithms, Computer vision(Python-OpenCV2, tensorflow),Machine learning, angular;
+- 🌱 I’m currently learning :Java Spring,angular,Pl/SQL, Computer vision & machine learning;
 - 🤔 I’m looking for help with Oracle PL/SQL & Struts framework;
-- 🤔 Little Experience in : Arduino,Data mining, C#;
+- 🤔 Little Experience in : Arduino,Data mining,React;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possibilty: I wan to learn Data science and get better at Machine leraning;
 - 📫 How to reach me: pkumarsaha71@gmail.com
@@ -40,7 +40,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> 
   <br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
