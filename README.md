@@ -7,6 +7,7 @@ You can use the website to generate badges: https://shields.io/
 [![](https://img.shields.io/badge/-PlabonKumarSaha-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/plabon-kumar-saha-57726b172/)
 [![](https://img.shields.io/badge/-PlabonKumarSaha-0A1A2F?style=flat&logo=Stack%20Overflow)](https://stackoverflow.com/users/14163532/pks)
 [![](https://img.shields.io/badge/-PlabonKumarSaha-0A1A2F?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=AjQin0cAAAAJ&hl=en&oi=sra)
+[![](https://img.shields.io/badge/-PKS-0A1A2F?style=flat&logo=discord)](https://discord.com/channels/904957631951687700/904957631951687702)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PlabonKumarsaha)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/plabonk.saha/?hl=en)
 
