@@ -11,6 +11,14 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/plabonk.saha/?hl=en)
 
 
+---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+- :dagger: &nbsp;Languages:&nbsp;
+  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+
 &nbsp;
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
