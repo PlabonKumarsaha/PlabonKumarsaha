@@ -11,13 +11,7 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/plabonk.saha/?hl=en)
 
 
----
-<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
-- :dagger: &nbsp;Languages:&nbsp;
-  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
-  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 
 &nbsp;
 <!-- Talking about you -->
@@ -46,6 +40,15 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  
+  ---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+- :dagger: &nbsp;Languages:&nbsp;
+  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> 
