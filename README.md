@@ -4,7 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![](https://img.shields.io/badge/-SaadAAkash-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/plabon-kumar-saha-57726b172/)
+[![](https://img.shields.io/badge/-PlabonKumarSaha-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/plabon-kumar-saha-57726b172/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PlabonKumarsaha)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/plabon-kumar-saha-57726b172/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/plabonk.saha/?hl=en)
