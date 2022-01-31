@@ -60,7 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg"></code>
   
 </p>
 
