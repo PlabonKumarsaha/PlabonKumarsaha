@@ -13,7 +13,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
 &nbsp;
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -66,5 +65,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 
 ![Profile views](https://gpvc.arturio.dev/PlabonKumarsaha)
-
 
