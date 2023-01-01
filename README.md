@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Getting better at : Spring boot, Angular, Python, Machine learning;
-- 🌱 I’m currently learning :Django,angular,Python,Machine learning;
+- 🌱 I’m currently learning :node,solidity,angular,Python,Machine learning;
 - 🤔 Little Experience in : Arduino,Data mining,React,Mobile app development;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Future-possibilty: I wan to learn Data science and get better at Machine leraning;
