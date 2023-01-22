@@ -19,8 +19,8 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 Getting better at : Spring boot, web3, Angular, Python, Machine learning;
+- 🤔 Experience in : Backend With Spring boot(java),NestJs, Nodejs; Front end : Angular, Other : Machine learning and Expert in RDBMS;
+- 🌱 Getting better at :Solidity, web3, Angular, JS,Python;
 - 🌱 I’m currently learning :node,solidity,angular,Python,Machine learning;
 - 🤔 Little Experience in : Arduino,Data mining,React,Mobile app development;
 - 💬 Ask me about anything, I am happy to help;
